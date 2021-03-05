@@ -1,17 +1,21 @@
 # Apartments
 
 ``` bash
-# install dependencies
-npm install
 
-#install json-server globally for windows
-npm install -g json-server
+#for UNIX system
+1. npm install
+2. npm install -g json-server
+3. json-server --watch db.json --port 3001
+4. #and in new terminal
+   npm run start
 
-#install json-server globally for unix
-sudo npm install -g json-server
 
-# serve with hot reload at localhost:5000 and json-server at localhost:3001
-npm run start
+#for UNIX system
+1. npm install
+2. sudo npm install -g json-server
+3. npm run start
+
+
 
 # build for production with minification
 npm run dev
