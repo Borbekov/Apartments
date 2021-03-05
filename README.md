@@ -7,7 +7,7 @@ npm install
 #install json-server globally for windows
 npm install -g json-server
 
-#install json-server globally for uxin
+#install json-server globally for unix
 sudo npm install -g json-server
 
 # serve with hot reload at localhost:5000 and json-server at localhost:3001
