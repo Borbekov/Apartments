@@ -42,7 +42,7 @@ const Apartments = () => {
   } else {
     return (
       <div className="spinner">
-        <i class="ri-loader-2-line"></i>
+        <i className="ri-loader-2-line"></i>
       </div>
     )
   }
