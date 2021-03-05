@@ -1,0 +1,44 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.spinner {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255,211,19,.7);
+  i {
+    font-size: 40px;
+    animation: spin 2s linear infinite;
+  }
+}
+
+@-moz-keyframes spin {
+  100% {
+    -moz-transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@media only screen and (max-width: 850px) {
+  #root {
+    width: 100%;
+  }
+}

@@ -1,0 +1,14 @@
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 0;
+  i {
+    color: #2a81dd;
+    cursor: pointer;
+    font-size: 20px; 
+  }
+  span {
+    margin: 0 5px;
+  }
+}

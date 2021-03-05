@@ -1,0 +1,608 @@
+{
+  "apartments": [
+    {
+      "type": "flat",
+      "id": 1,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://louren.cz/wp-content/uploads/2018/08/One-Bedroom-apt.-Kitchenette-2-1024x683.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://cf.bstatic.com/images/hotel/max1024x768/238/238544247.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://cf.bstatic.com/images/hotel/max1024x768/238/238544247.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://cf.bstatic.com/images/hotel/max1024x768/238/238544247.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://cf.bstatic.com/images/hotel/max1024x768/238/238544247.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "3-х комнатная квартира",
+        "rooms": 3,
+        "address": {
+          "city": "Алматы",
+          "street": "Проспект Абая",
+          "house": "3a",
+          "room": "123"
+        },
+        "area": 134,
+        "unit": "квм",
+        "stage": "4",
+        "totalStage": "16",
+        "price": "9 000 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 2,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 2,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://cf.bstatic.com/images/hotel/max1024x768/422/42251788.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/dn9JmbyHvw0DTUWlpE8V9Z0K4lU=/1660x934/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/S4ZX2DV7BZDW5HW54OMMISE4Y4.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "4-х комнатная квартира",
+        "rooms": 4,
+        "address": {
+          "city": "Алматы",
+          "street": "Курмангазы",
+          "house": "56",
+          "room": "123"
+        },
+        "area": 145,
+        "unit": "квм",
+        "stage": "8",
+        "totalStage": "22",
+        "price": "12 000 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "owner",
+        "id": 1,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 3,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://redbrik.co.uk/wp-content/uploads/2018/10/IMG_14707_18_original-1024x683.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/dn9JmbyHvw0DTUWlpE8V9Z0K4lU=/1660x934/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/S4ZX2DV7BZDW5HW54OMMISE4Y4.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/dn9JmbyHvw0DTUWlpE8V9Z0K4lU=/1660x934/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/S4ZX2DV7BZDW5HW54OMMISE4Y4.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/dn9JmbyHvw0DTUWlpE8V9Z0K4lU=/1660x934/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/S4ZX2DV7BZDW5HW54OMMISE4Y4.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "2-х комнатная квартира",
+        "rooms": 2,
+        "address": {
+          "city": "Алматы",
+          "street": "Жандосова",
+          "house": "15/2",
+          "room": "123"
+        },
+        "area": 65,
+        "unit": "квм",
+        "stage": "4",
+        "totalStage": "5",
+        "price": "5 500 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "owner",
+        "id": 1,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 4,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://3ndwparwja4177qe72yqzmp1-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/IndianCreekModel-unit-Living-room-1024x683.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "1 комнатная квартира",
+        "rooms": 1,
+        "address": {
+          "city": "Алматы",
+          "street": "Байтурсынова",
+          "house": "90",
+          "room": "123"
+        },
+        "area": 35,
+        "unit": "квм",
+        "stage": "1",
+        "totalStage": "5",
+        "price": "4 000 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 2,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 5,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://wcsmith.com/wp-content/uploads/2016/01/Eddystone-Apartments-Porch-French-Doors-Furniture-Washington-DC-Apartmnet-Rental-1024x683.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "3-х комнатная квартира",
+        "rooms": 3,
+        "address": {
+          "city": "Алматы",
+          "street": "Толе би",
+          "house": "154/4",
+          "room": "123"
+        },
+        "area": 70,
+        "unit": "квм",
+        "stage": "6",
+        "totalStage": "9",
+        "price": "8 200 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 2,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 6,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://www.irvinecompanyapartments.com/rental-living/wp-content/uploads/2020/11/studio-1024x683.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 6,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 7,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "2-х комнатная квартира",
+        "rooms": 2,
+        "address": {
+          "city": "Алматы",
+          "street": "Проспект Достык",
+          "house": "123",
+          "room": "123"
+        },
+        "area": 100,
+        "unit": "квм",
+        "stage": "11",
+        "totalStage": "16",
+        "price": "14 900 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "owner",
+        "id": 1,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 7,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://lh3.googleusercontent.com/proxy/3Dn1phMyuta-XdTGYeGkmWuYKkr2ZlgcgwxjBWGAHVdivLuv5mBKUNyzPVIcAwtewwvbZQkS_yXG9DUd_ZBZF0U7dXrVgrTmADpAZXDvdriGdMtcyIpMUIN6NY6Z8hqQT6RDXTpiQ2GnHQ"
+        },
+        {
+          "id": 2,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "2-х комнатная квартира",
+        "rooms": 2,
+        "address": {
+          "city": "Алматы",
+          "street": "Рыскулова",
+          "house": "30",
+          "room": "123"
+        },
+        "area": 74,
+        "unit": "квм",
+        "stage": "2",
+        "totalStage": "9",
+        "price": "8 800 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 2,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 8,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://lh3.googleusercontent.com/proxy/F3TRpdz0RD6e2W5Mi7YBETt-X29my4xHMwu3q75XCS5qy0scnYED8nagtbKIUgBZ6l7oOZEgliQhziPDLz3V26FWGUW5TPwA16DIWtdvEbfHvNZ-A450jijiEulVV4B46EZN2EWQDx1-fO0lsy0AdrbMaZ4sUqkY36eaXaod_oPbB4dp1isMQ1izDGGnJLdUu6j9x_L5dg"
+        }
+      ],
+      "attributes": {
+        "title": "1 комнатная квартира",
+        "rooms": 1,
+        "address": {
+          "city": "Алматы",
+          "street": "Желтоксан",
+          "house": "22/1",
+          "room": "123"
+        },
+        "area": 55,
+        "unit": "квм",
+        "stage": "4",
+        "totalStage": "5",
+        "price": "6 750 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "owner",
+        "id": 1,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 9,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://www.cairnscityapartments.com.au/site/wp-content/uploads/2019/03/1200-2bed-beaumont-cairns-accommodation2-1024x683.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "3-х комнатная квартира",
+        "rooms": 3,
+        "address": {
+          "city": "Алматы",
+          "street": "Макатаева",
+          "house": "74",
+          "room": "123"
+        },
+        "area": 64,
+        "unit": "квм",
+        "stage": "4",
+        "totalStage": "12",
+        "price": "9 000 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "owner",
+        "id": 1,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 10,
+      "images": [
+        {
+          "id": 1,
+          "url": "http://harbourclubapartments.com/wp-content/uploads/2020/01/Harbor_Club_Model_1_LivingRoom_EDIT_LowRes-2-1024x683.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },{
+          "id": 6,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },{
+          "id": 7,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },{
+          "id": 8,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "1 комнатная квартира",
+        "rooms": 1,
+        "address": {
+          "city": "Алматы",
+          "street": "Проспект Аль-Фараби",
+          "house": "45",
+          "room": "123"
+        },
+        "area": 50,
+        "unit": "квм",
+        "stage": "5",
+        "totalStage": "15",
+        "price": "6 600 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 2,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 11,
+      "images": [
+        {
+          "id": 1,
+          "url": "http://cdn.home-designing.com/wp-content/uploads/2018/06/Blue-Color-Block-Living-Room-With-Metal-Industrial-Lighting-And-Scandinavian-Accent-chair-1024x683.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 4,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "1 комнатная квартира",
+        "rooms": 1,
+        "address": {
+          "city": "Алматы",
+          "street": "Толебева",
+          "house": "23б",
+          "room": "123"
+        },
+        "area": 50,
+        "unit": "квм",
+        "stage": "4",
+        "totalStage": "6",
+        "price": "4 500 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 2,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 12,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://news.spainhouses.net/wp-content/uploads/75089113_2918446_foto_097678-1024x683.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "4-х комнатная квартира",
+        "rooms": 4,
+        "address": {
+          "city": "Алматы",
+          "street": "Туркебаева",
+          "house": "3a",
+          "room": "123"
+        },
+        "area": 134,
+        "unit": "квм",
+        "stage": "4",
+        "totalStage": "16",
+        "price": "11 500 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "owner",
+        "id": 1,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    },
+    {
+      "type": "flat",
+      "id": 13,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://q-xx.bstatic.com/images/hotel/max1024x768/197/197179243.jpg"
+        },
+        {
+          "id": 1,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 1,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 1,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        },
+        {
+          "id": 1,
+          "url": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2020/07/studio-apartments-social.jpg"
+        }
+      ],
+      "attributes": {
+        "title": "3-х комнатная квартира",
+        "rooms": 3,
+        "address": {
+          "city": "Алматы",
+          "street": "Минская",
+          "house": "53/2",
+          "room": "123"
+        },
+        "area": 66,
+        "unit": "квм",
+        "stage": "7",
+        "totalStage": "8",
+        "price": "5 000 000",
+        "description": "Элитный жилой комплекс расположен в экологически чистой предгорной зоне Медеуского района. Здесь, открывается невероятный вид на горы Заилийского Алатау."
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 2,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      }
+    }
+  ]
+}
